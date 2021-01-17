@@ -108,7 +108,7 @@ line-height: 17px;
 color: #333333;
 }
 
-/* @media(max-width:900px){
+@media(max-width:900px){
  .main{
   display: flex;
   flex-direction: column;
@@ -159,4 +159,4 @@ color: #333333;
    margin-left: 75px;
    font-size: 14px;
   }
-} */
+}
